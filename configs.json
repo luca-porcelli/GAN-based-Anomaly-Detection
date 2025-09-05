@@ -1,0 +1,12 @@
+{
+  "img_size": 256,
+  "batch_size": 16,
+  "lr": 0.0002,
+  "beta1": 0.5,
+  "beta2": 0.999,
+  "epochs": 50,
+  "lambda_img": 50.0,
+  "lambda_latent": 1.0,
+  "categories": "ALL",
+  "threshold_percentile": 95
+}
